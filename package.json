@@ -2,7 +2,7 @@
     "name": "gitpod-trivia",
     "displayName": "Gitpod Trivia",
     "description": "This extension shows a message at Gitpod workspace start with more information about your unique workspace name. More features will probably be added in the future. Note: This extension works in Gitpod only.",
-    "version": "0.0.2",
+    "version": "0.0.4",
     "publisher": "corneliusludmann",
     "author": {
         "name": "Cornelius A. Ludmann",
