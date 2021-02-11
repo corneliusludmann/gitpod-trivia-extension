@@ -1,0 +1,6 @@
+tasks:
+  - before: npm install -g vsce
+    init: |
+      yarn
+      npm install -g vsce
+      vsce package
