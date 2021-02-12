@@ -4,7 +4,6 @@ tasks:
       yarn
       npm install -g vsce
       vsce package
-
 vscode:
   extensions:
-    - corneliusludmann.gitpod-trivia@0.0.3:dvV3p8bDqq6BvqDckgFstw==
+    - corneliusludmann.gitpod-trivia@0.0.5:nDbNMgOHZDWeB/LpN0tbAg==
